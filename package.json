@@ -1,0 +1,19 @@
+{
+  "name": "my-digital-tools",
+  "version": "1.0.0",
+  "description": "Digital tools for helping my day-to-day life with budgeting, rss reading, writing diary, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarJarMP/my-digital-tools.git"
+  },
+  "author": "Peter Maroti",
+  "license": "-",
+  "bugs": {
+    "url": "https://github.com/JarJarMP/my-digital-tools/issues"
+  },
+  "homepage": "https://github.com/JarJarMP/my-digital-tools"
+}
