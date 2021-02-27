@@ -1,9 +1,7 @@
-function App() {
-  return (
-    <div>
-      MDT
-    </div>
-  );
-}
+import Layout from './hoc/Layout/Layout';
 
-export default App;
+const app = () => (
+  <Layout />
+);
+
+export default app;
